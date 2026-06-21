@@ -12,7 +12,7 @@
 - Cursor for editing
 - Git CLI for version control
 - GitHub for collaboration
-- GitHub for collaboration
+
 ## Lessons Learned
 
 - Merge conflicts are normal and not scary
